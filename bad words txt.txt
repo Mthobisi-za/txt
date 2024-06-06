@@ -132,7 +132,6 @@ Felcher
 ficken
 fitt*
 Flikker
-flipping the bird
 foreskin
 Fotze
 Fu(*
@@ -237,12 +236,11 @@ Motha Fucker
 Motha Fuker
 Motha Fukkah
 Motha Fukker
-Mother Fucker
-Mother 
+Fucker
 FukahMother 
 Fuker
-Mother Fukkah
-Mother Fukker
+Fukkah
+Fukker
 mother-fucker
 motherfucker
 mouliewop
@@ -573,6 +571,8 @@ ficken
 fitt*
 Flikker
 flipping
+the
+b
 foreskin
 Fotze
 Fu(*
@@ -900,6 +900,6 @@ fuck!
 yed
 zabourah
 voetsek
-Fucker
+Voetsek
+fucker
 kak
-bullshit
